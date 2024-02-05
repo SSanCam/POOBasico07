@@ -14,8 +14,10 @@ de cuenta y un saldo disponible.
 ·Debe contener un método que devuelva si la persona es morosa (si tienen alguna cuenta con saldo negativo). 
 Recibirá como parámetro el objeto Persona y devolverá un booleano.
 
-·Debe contener un método que realice una transferencia entre dos cuentas. Recibirá como parámetro dos objetos PersonaB, 
-dos identificacdors de cuentas y la cantidad a transferir. Devolverá un booleano indicando si se ha podido realizar o no la operación.
+·Debe contener un método que realice una transferencia entre dos cuentas. 
+Recibirá como parámetro dos objetos PersonaB, dos identificacdors de cuentas y 
+la cantidad a transferir. 
+Devolverá un booleano indicando si se ha podido realizar o no la operación.
 
 6.-En el programa principal, instanciar un objeto Persona con un DNI cualquiera, así como dos objetos cuenta, 
 una sin saldo inicial y otra con 700 euros. La persona recibe la nómina mensual, por lo que ingresa 1100 euros en la primera cuenta, 
